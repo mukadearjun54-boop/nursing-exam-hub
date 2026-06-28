@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>GNM Question Papers</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+<h1>GNM Previous Year Question Papers</h1>
+</header>
+
+<div class="container">
+
+<div class="card">
+<h2>1st Year</h2>
+<a href="#">Anatomy & Physiology</a>
+<a href="#">Microbiology</a>
+<a href="#">Psychology</a>
+</div>
+
+<div class="card">
+<h2>2nd Year</h2>
+<a href="#">Medical Surgical Nursing</a>
+<a href="#">Mental Health Nursing</a>
+<a href="#">Child Health Nursing</a>
+</div>
+
+<div class="card">
+<h2>3rd Year</h2>
+<a href="#">Midwifery & Gynecology</a>
+<a href="#">Community Health Nursing</a>
+<a href="#">Nursing Education</a>
+</div>
+
+<a href="index.html">⬅ Back to Home</a>
+
+</div>
+
+<footer>
+© 2026 Nursing Exam Hub
+</footer>
+
+</body>
+</html>
